@@ -9,7 +9,7 @@
 
 int main() {
 
-    //Varáveis da primeira carta
+    //Variáveis da primeira carta
     float area, pib;
     int population, tourist_attrations, number_card;
     char city[50];
